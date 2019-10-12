@@ -1,1 +1,3 @@
 Branch in git
+we create new branch dev
+and we switched to dev branch
